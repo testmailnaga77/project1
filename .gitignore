@@ -1,0 +1,4 @@
+*.pdf
+*.doc
+!abc.pdf
+myfolder/
