@@ -1,3 +1,6 @@
 hi 
 good evening
 have a nice day
+newline added in file1.txt
+thank you
+have a nice day
